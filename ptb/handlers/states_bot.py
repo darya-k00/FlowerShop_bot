@@ -1,3 +1,16 @@
 (
     MAIN_MENU,
-) = range(1)
+    OTHER_EVENT,
+    SHADE_MENU,
+    PRICE_MENU,
+    FLOWERS,
+    REMOVE_FLOWER,
+    OPD,
+    NAME,
+    PHONE,
+    ADDRESS,
+    DATE,
+    TIME,
+    CONFIRM_ORDER,
+    COMPLETE_ORDER
+) = range(14)
